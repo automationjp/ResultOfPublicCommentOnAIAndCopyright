@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#content h1 { font-size:136%;}
+
+#content h2 { font-size:122%;}
+#content h2.font_l { font-size:132%;}
+#content h3 { font-size:114%;}
+#content h4 { font-size:100%;}
+#content h4.font_l { font-size:110%;}
+#content h5 { font-size:100%;}
+
+#content p,#content li,#content dt,#content dd,#content th,#content td { font-size:100%;}
+p.parCaption { font-size:92%;}
